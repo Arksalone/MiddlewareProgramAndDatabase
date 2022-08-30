@@ -1,0 +1,14 @@
+/* Styling of body  */
+body {
+    background-color: #303841;
+    color: #00adb5;
+}
+
+/* Styling of table  */
+table,
+th,
+td {
+    border-collapse: collapse;
+    padding: 10px 10px;
+}
+
